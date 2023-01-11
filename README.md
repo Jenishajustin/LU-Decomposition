@@ -42,9 +42,14 @@ lu,piv=lu_factor(A)
 x=lu_solve((lu,piv),b)
 print(x)
 ```
+
 ## Output:
 ![lu decomposition](lu-1.png)
 ![lu decomposition](lu-2.png)
+
+
+
+
 
 
 ## Result:
